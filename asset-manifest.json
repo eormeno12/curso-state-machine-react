@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/curso-state-machine-react/static/css/main.9aec82a3.chunk.css",
+    "main.js": "/curso-state-machine-react/static/js/main.b9fa0eb5.chunk.js",
+    "main.js.map": "/curso-state-machine-react/static/js/main.b9fa0eb5.chunk.js.map",
+    "runtime-main.js": "/curso-state-machine-react/static/js/runtime-main.505fdb03.js",
+    "runtime-main.js.map": "/curso-state-machine-react/static/js/runtime-main.505fdb03.js.map",
+    "static/js/2.5ae99313.chunk.js": "/curso-state-machine-react/static/js/2.5ae99313.chunk.js",
+    "static/js/2.5ae99313.chunk.js.map": "/curso-state-machine-react/static/js/2.5ae99313.chunk.js.map",
+    "static/js/3.9bb0408e.chunk.js": "/curso-state-machine-react/static/js/3.9bb0408e.chunk.js",
+    "static/js/3.9bb0408e.chunk.js.map": "/curso-state-machine-react/static/js/3.9bb0408e.chunk.js.map",
+    "index.html": "/curso-state-machine-react/index.html",
+    "static/css/main.9aec82a3.chunk.css.map": "/curso-state-machine-react/static/css/main.9aec82a3.chunk.css.map",
+    "static/js/2.5ae99313.chunk.js.LICENSE.txt": "/curso-state-machine-react/static/js/2.5ae99313.chunk.js.LICENSE.txt",
+    "static/media/BaseLayout.css": "/curso-state-machine-react/static/media/background-travel-2.1b3bc05a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.505fdb03.js",
+    "static/js/2.5ae99313.chunk.js",
+    "static/css/main.9aec82a3.chunk.css",
+    "static/js/main.b9fa0eb5.chunk.js"
+  ]
+}
